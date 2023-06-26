@@ -1,0 +1,32 @@
+.h1 {
+    height: 15%;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    height: 100%;
+}
+.main_component {
+    height: 100vh;
+}
+
+mat-card {
+    width: 50%;
+    height: 30%;
+    align-self: center;
+}
+
+mat-card-header {
+    display: initial;
+}
+
+.div-flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    height: 80%;
+}

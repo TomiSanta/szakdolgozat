@@ -1,0 +1,22 @@
+{
+  "hosting": [
+    {
+      "target": "Webshop",
+      
+      "public": "dist/webshop",
+      "ignore": [
+        "**/.*"
+      ],
+      "frameworksBackend": {},
+
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+    
+  ] 
+}
+

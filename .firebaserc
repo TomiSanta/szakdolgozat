@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "szakdoga-2023": {
+      "hosting": {
+        "Webshop": [
+          "szakdoga-2023"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "szakdoga-2023"
+  }
+}
